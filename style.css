@@ -1,0 +1,363 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar {
+    background-color: rgb(0, 0, 0);
+    height: 60px;
+}
+
+.logo {
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.select {
+    position: relative;
+    left: 21px;
+    top: -4px;
+    cursor: pointer;
+}
+
+.hello {
+    position: relative;
+    top: -9px;
+    left: 1px;
+    color: white;
+    font-weight: 300;
+    cursor: pointer;
+}
+
+.Address {
+    position: relative;
+    top: 11px;
+    left: -41px;
+    color: white;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.fa-location-dot {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.search {
+    position: absolute;
+    left: 430px;
+    padding-right: 280px;
+
+}
+
+.btn-outline-success {
+    position: absolute;
+    top: 11px;
+    left: 60.3%;
+    background: #ab7209;
+    color: white;
+}
+
+.Categories {
+    height: 37px;
+    width: 126px;
+    border-radius: 5px;
+    position: relative;
+    left: -1px;
+}
+
+.flag-logo {
+    position: absolute;
+    left: 67%;
+    top: 18px;
+    height: 22px;
+    width: 17px;
+}
+
+.cuntry-name {
+    color: white;
+    position: absolute;
+    left: 957px;
+    bottom: 21px;
+}
+
+.downarrow {
+    color: aliceblue;
+    position: absolute;
+    left: 983px;
+    font-size: 14px;
+    top: 22px;
+}
+
+.login {
+    position: absolute;
+    left: 73%;
+}
+
+.return {
+    position: absolute;
+    left: 86%;
+}
+
+.shop {
+    font-size: 32px;
+}
+
+.delivery {
+    position: absolute;
+    left: 93%;
+}
+
+.container-fluid-2 {
+    background: rgb(39, 35, 35);
+    height: 50px;
+}
+
+.Categories-two {
+    height: 37px;
+    width: 50px;
+    border-radius: 11px;
+    position: relative;
+    left: 11px;
+    top: 7px;
+}
+
+.details {
+    color: aliceblue;
+    display: inline-block;
+}
+
+.details-show {
+    display: inline-block;
+    margin-left: 23px;
+    margin-top: 10px;
+    font-size: 11px;
+}
+
+.details-show:hover {
+    color: rgb(173, 156, 46);
+}
+
+.second-ad-image {
+    position: absolute;
+    height: 47px;
+    top: 61px;
+    left: 971px;
+    width: 410px;
+}
+
+.men-fashion-show {
+    color: black;
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 11px;
+    font-size: 16px;
+    font-style: initial;
+    font-weight: 400;
+    font-family: fangsong;
+}
+
+.men-fashion-show:hover {
+    color: rgb(59, 100, 189);
+}
+
+.fasion-bar-image {
+    position: absolute;
+    left: 87%;
+}
+
+.box-1 {
+  
+}
+
+.mens-wear {
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.left-mens-details {
+    font-size: 16px;
+    font-style: initial;
+    font-weight: 400;
+    font-family: fangsong;
+    list-style: none;
+}
+
+.left-mens-details:hover {
+    color: #ffa600;
+}
+
+.brands-details {
+    font-size: 16px;
+    font-style: initial;
+    font-weight: 400;
+    font-family: fangsong;
+    list-style: none;
+}
+
+.mens-brands {
+    color: rgb(0, 0, 0);
+    margin-left: 40px;
+}
+
+.brands-details:hover {
+    color: #ffa600;
+}
+.color-orange{
+    color: #ffa600;
+}
+.average-details{
+    font-size: 16px;
+    font-style: initial;
+    font-weight: 400;
+    font-family: fangsong;
+    list-style: none;
+}
+.prize-details-list{
+    font-size: 16px;
+    font-style: initial;
+    font-weight: 400;
+    font-family: fangsong;
+    list-style: none;
+}
+.prize-details-list:hover {
+    color: #ffa600;
+}
+.multiwere{
+    list-style: none;
+    display: inline-block;
+    margin-top: 20px;
+  
+}
+.products-types{
+    height: 260px;
+    width: 175px;
+    margin-left: 9px;
+}
+.amazon-ama-brand{
+    font-size: 30px;
+    color: rgb(67, 28, 55);
+    font-family: serif;
+    
+}
+.results{
+    background: rgba(128, 128, 128, 0.46);
+    border: 2px solid black;
+    border-radius: 10px;
+    height:30px;
+}
+.best{
+    background: #ab7209;
+    color: aliceblue;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 5px;
+
+}
+.btn-primary{
+background: #ffa600;
+width: 130px;
+font-size: 10px;
+}
+.back-top {
+    background-color: rgb(74, 86, 102);
+    height: 50px;
+}
+
+.bow{
+    text-align: center;
+    margin-top: 10px;
+    display: inline-block;
+}
+.container-last{
+    background-color: rgb(43, 73, 115);
+    height: 35vh;
+}
+.one{
+
+    position: relative;
+    top: 20px;
+    margin-left: 30px;
+}
+.details-about-final{
+    text-decoration: none;
+    color: rgb(157, 192, 202);
+    font-size: 15px;
+    list-style: none;
+}
+.last-image{
+    background-color: rgb(57, 82, 117);
+    height: 30vh;
+}
+.logo-last{
+    height: 66px;
+    width: 115px;
+    cursor: pointer;
+    position: relative;
+    margin-left: 550px;
+    top: 68px;
+}
+.last-icon{
+    position: relative;
+    margin-left: 715px;
+}
+.icon{
+    color: aliceblue;
+    font-size: 10px;
+}
+.english{
+    width: 100px;
+}
+.cuntry-last{
+    display: inline-block;
+    list-style: none;
+}
+.nav_a{
+    color: aliceblue;
+    margin-left: 10px;
+    text-decoration: none;
+    position: relative;
+    top: 50px;
+    left: 20px;
+
+}
+.container-last-and-last{
+    background-color: rgb(131, 136, 144);
+    height: 350px;
+}
+.abe{
+color: rgb(25, 29, 33);
+list-style: none;
+
+}
+.abe:hover{
+    color: aliceblue;
+}
+.last-one{
+    list-style: none;
+    display: inline-block;
+    color: black;
+}
+.color{
+    font-size: 15px;
+    position: relative;
+    top: 50px;
+    margin-left: 20px;
+    left: 400px;
+    color: aliceblue;
+    text-decoration: none;
+}
+.last-one:hover{
+    color: aliceblue;
+}
+.amazon-com{
+    font-size: 15px;
+    position: relative;
+    top: 36px;
+    margin-left: 20px;
+    left: 451px;
+    color: aliceblue;
+    text-decoration: none;
+}
